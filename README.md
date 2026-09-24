@@ -1,3 +1,6 @@
+# 👋 Hi, I'm Mukesh
+
+Welcome to my GitHub profile! 🚀
 # 💫 About Me:
 I am an **Electronics & Communication Engineering undergraduate exploring Artificial Intelligence, Machine Learning, and intelligent software systems**.<br><br>My interests lie at the intersection of **electronics, AI, and software engineering**, where I focus on turning technical concepts and research ideas into practical, real-world solutions.<br><br>I enjoy building systems that combine **machine learning, software, and hardware**, with an emphasis on problem-solving, experimentation, and creating solutions that can move beyond prototypes toward real-world applications.<br><br>Currently, I am strengthening my foundations in **Python, AI/ML, software development, and intelligent systems** while working on research-oriented and application-driven projects.<br><br>### 🎯 Open To<br><br>* 💼 AI/ML & Software Development Internships<br>* 🤝 Collaborative Projects & Open-Source Development<br>* 🔬 AI/ML Research & Engineering Opportunities<br>* 🚀 Building Real-World Intelligent Systems<br><br>### 🏆 Highlights<br><br>* 🎓 B.E. Electronics & Communication Engineering<br>* 🔧 Building practical hardware-software-AI solutions<br>
 
